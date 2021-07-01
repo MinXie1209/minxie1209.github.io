@@ -29,6 +29,10 @@
 
 **2.[零拷贝](/docs/Java/Netty/零拷贝.md)**
 
+**2.[线程模型](/docs/Java/Netty/线程模型.md)**
+
+**2.[线程模型](/docs/Java/Netty/线程模型.md)**
+
 **2.[Netty几大组件介绍](/docs/Java/Netty/Netty几大组件介绍.md)**
 
 **3.[Netty线程模型](/docs/Java/Netty/Netty线程模型.md)**
@@ -51,6 +55,9 @@
 **1.[什么是分布式锁？](/docs/分布式/分布式锁/分布式锁出现的场景.md)**
 
 **2.[分布式锁的落地实现](/docs/分布式/分布式锁/分布式锁的落地实现.md)**
+
+### 分布式一致性算法
+**1.[Paxos](/docs/分布式/分布式一致性算法/Paxos.md)**
 
 ## 框架
 
