@@ -29,13 +29,10 @@
 
 **2.[零拷贝](/docs/Java/Netty/零拷贝.md)**
 
-**2.[线程模型](/docs/Java/Netty/线程模型.md)**
+**3.[Netty线程模型](/docs/Java/Netty/线程模型.md)**
 
-**2.[线程模型](/docs/Java/Netty/线程模型.md)**
+**4.[Netty几大组件介绍](/docs/Java/Netty/Netty几大组件介绍.md)**
 
-**2.[Netty几大组件介绍](/docs/Java/Netty/Netty几大组件介绍.md)**
-
-**3.[Netty线程模型](/docs/Java/Netty/Netty线程模型.md)**
 
 
 ## 数据库
