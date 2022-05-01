@@ -1,10 +1,6 @@
-## Java
+### RocketMQ
 
-### 基础
-
-### 并发
-
-### JVM
+### 字节码
 
 ### IO
 
@@ -24,7 +20,6 @@
 
 ### Netty
 
-
 **1.[Netty简介](/docs/Java/Netty/Netty简介.md)**
 
 **2.[零拷贝](/docs/Java/Netty/零拷贝.md)**
@@ -34,14 +29,9 @@
 **4.[Netty几大组件介绍](/docs/Java/Netty/Netty几大组件介绍.md)**
 
 
-
-## 数据库
-
 ### MySQL
 
 **1.[锁](/docs/数据库/MySQL/锁.md)**
-
-## 分布式
 
 ### 分布式事务
 
@@ -55,18 +45,3 @@
 
 ### 分布式一致性算法
 **1.[Paxos](/docs/分布式/分布式一致性算法/Paxos.md)**
-
-## 框架
-
-### SpringBoot
-
-### SpringCloud
-
-## 中间件
-
-### Kafka
-
-### RocketMQ
-
-### Zookeeper
-

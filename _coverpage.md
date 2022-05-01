@@ -2,13 +2,15 @@
 
 ![logo](_media/icon.svg)-->
 
-# MinXie’s Blog
+# MinXie 的博客
 
-> Contributor of Apache/RocketMQ
+> 👏👏👏欢迎光临寒舍
+
+> Contributor of Apache RocketMQ
 <!--
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
 - 众多主题 -->
 
 [掘金](https://juejin.cn/user/377887729924872/posts?sort=popular)
-[Get Started](README.md)
+[进屋](README.md)
