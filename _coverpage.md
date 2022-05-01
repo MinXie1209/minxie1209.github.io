@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.svg)-->
 
-# MinXie’s Blog</small>
+# MinXie’s Blog
 
 > Contributor of Apache/RocketMQ
 <!--
