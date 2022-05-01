@@ -2,9 +2,9 @@
 
 ![logo](_media/icon.svg)-->
 
-# knowledge <small>1.0</small>
+# MinXie’s Blog</small>
 
-> MinXie’s Blog
+> Contributor of Apache/RocketMQ
 <!--
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
