@@ -12,6 +12,8 @@
 
 ### 字节码
 
+1. [基于 ASM 实现 Java 动态代理](/docs/Jvm/基于ASM实现Java动态代理.md)
+
 ### IO
 
 1. [IO知识点](/docs/Java/IO/IO知识点.md)
