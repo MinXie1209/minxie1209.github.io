@@ -4,11 +4,11 @@
 
 # knowledge <small>1.0</small>
 
-> 计算机知识汇总库
+> MinXie’s Blog
 <!--
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
 - 众多主题 -->
 
-[Gitee](https://gitee.com/jnxj/knowledge)
+[掘金](https://juejin.cn/user/377887729924872/posts?sort=popular)
 [Get Started](README.md)
